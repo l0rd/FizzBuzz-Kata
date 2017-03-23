@@ -57,7 +57,7 @@ public class FizzBuzzMachineTest {
 
     @Test
     public void shouldReturnTheValueWithNoMultipleValue() {
-        assertEquals("7", fizzBuzzMachine.execute(7));
+        assertEquals("8", fizzBuzzMachine.execute(7));
     }
 
     @Test
